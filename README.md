@@ -21,3 +21,6 @@ More ne li vide,junak da pomine? 2x
 Ref.2x
 
 etc.
+
+
+Changes I don't want - yuck, yuck, yuck!!!
